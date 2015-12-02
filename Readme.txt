@@ -1,6 +1,6 @@
-<9Á¶ GitHub °èÁ¤ ¾È³»>
-ÀÌÃ¶Çå - leecheolheon
-ÃÖÁ¾À± - cjycjycjy
-°û¹Î±â - dolphz
-°­¿¹Àº - bobbedhair
-ÃÖ½½¾Æ - seula4hg
+<9ì¡° GitHub ê³„ì • ì•ˆë‚´>
+ì´ì² í—Œ - https://github.com/leecheolheon/hgproject.git
+ìµœì¢…ìœ¤ - https://github.com/cjycjycjy/hgproject.git
+ê³½ë¯¼ê¸° - https://github.com/dolphz/hgproject.git
+ê°•ì˜ˆì€ - https://github.com/bobbedhair/hgproject.git
+ìµœìŠ¬ì•„ - https://github.com/seula4hg/hgproject.git
